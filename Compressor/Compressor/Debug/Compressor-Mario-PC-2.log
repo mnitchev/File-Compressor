@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Compressor-Mario-PC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HuffmanTree.cpp
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C2433: 'HuffTree': 'friend' not permitted on data declarations
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Compressor.cpp
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C2433: 'HuffTree': 'friend' not permitted on data declarations
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\onedrive\uni\c++\compressor\compressor\compressor.h(27): error C2061: syntax error: identifier 'HuffTree'
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(123): error C2146: syntax error: missing ';' before identifier 'tree'
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(123): error C3861: 'tree': identifier not found
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(124): error C2065: 'tree': undeclared identifier
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(124): error C2228: left of '.root' must have class/struct/union
+  d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(124): note: type is 'unknown-type'
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(125): error C2065: 'tree': undeclared identifier
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(147): error C2146: syntax error: missing ')' before identifier 'tree'
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(147): error C2143: syntax error: missing ';' before '{'
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(147): error C2447: '{': missing function header (old-style formal list?)
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(199): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\uni\c++\compressor\compressor\compressor.cpp(202): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Decompressor.cpp
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C2433: 'HuffTree': 'friend' not permitted on data declarations
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\onedrive\uni\c++\compressor\compressor\compressor.h(27): error C2061: syntax error: identifier 'HuffTree'
+  Generating Code...
+  Compiling...
+  Main.cpp
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C2433: 'HuffTree': 'friend' not permitted on data declarations
+d:\onedrive\uni\c++\compressor\compressor\huffmantree.h(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\onedrive\uni\c++\compressor\compressor\compressor.h(27): error C2061: syntax error: identifier 'HuffTree'
+  Generating Code...
